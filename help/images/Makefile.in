@@ -172,6 +172,7 @@ target_alias = @target_alias@
 helpdatadir = $(DATADIR)/help/images
 
 helpdata_DATA = \
+	deskew.css \
 	wilber.png
 
 
