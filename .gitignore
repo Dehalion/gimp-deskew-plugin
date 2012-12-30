@@ -23,5 +23,8 @@ Makefile.in
 /po/stamp-it
 /po/POTFILES
 
+*.o
+/src/deskew
+
 *~
 .#*
