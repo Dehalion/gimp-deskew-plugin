@@ -1,9 +1,9 @@
 ## Process this file with automake to produce Makefile.in
 
-helpdatadir = $(DATADIR)/help/images
+helpdatadir = $(DATADIR)/help/de
 
 helpdata_DATA = \
-	deskew.css \
-	wilber.png
+	gimp-help.xml	\
+	index.html
 
 EXTRA_DIST = $(helpdata_DATA)
